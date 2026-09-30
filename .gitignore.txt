@@ -1,0 +1,13 @@
+.metadata/
+**/.metadata/
+**/Debug/
+**/Release/
+**/*.log
+**/*.lock
+**/*.pdom
+# KiCad
+**/*-backups/
+**/_autosave-*
+**/*.bak
+**/fp-info-cache
+**/*.kicad_prl
